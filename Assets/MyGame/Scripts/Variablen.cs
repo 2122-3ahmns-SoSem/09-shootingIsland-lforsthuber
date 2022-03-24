@@ -53,7 +53,7 @@ public class Variablen : MonoBehaviour
         Debug.Log(anzTuerenInstanz.ToString());
         Debug.Log("bool fahren " + fahren.ToString());
 
-        int.anzTueren = int.Parse("4");
+       // int.anzTueren = int.Parse("4");
         float anzTuerenf = float.Parse("4");
 
         anzTueren = int.Parse("eins");
